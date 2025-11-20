@@ -1,8 +1,8 @@
 # 🧿 3rd Eye – Raspberry Pi Head-Tracking Assistive Camera
 
-**DurHack 2024 – Assistive Technology & Robotics**
+**DurHack 2025 – Assistive Technology & Robotics**
 
-3rd Eye is an assistive-vision prototype designed to give visually-impaired users a remote "second camera" that moves automatically based on their head direction. The system streams live video from a Raspberry Pi to a PC while using real-time face landmark tracking (Mediapipe) to rotate a servo-mounted camera.
+3rd Eye is an assistive-vision prototype designed to give visually impaired users a remote "second camera" that automatically follows their head movement. The system streams live video from a Raspberry Pi to a PC while using real-time face landmark tracking (Mediapipe) to rotate a servo-mounted camera.
 
 Originally, the team aimed to use eye-gaze tracking, but due to time constraints and model limitations, we pivoted to a more robust nose-landmark head-tracking approach.
 
@@ -207,7 +207,7 @@ Thus the pivot to:
 
 ## 👥 Team
 
-Built at **DurHack 2024** for the Assistive Technology & Robotics track.
+Built at **DurHack 2025** for the Assistive Technology & Robotics track.
 
 ---
 
@@ -220,5 +220,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - **Mediapipe** for face landmark detection
+- **Google** for Gemini apis
 - **Raspberry Pi Foundation** for hardware support
-- **DurHack 2024** organizers and mentors
+- **DurHack 2025** organizers and mentors
